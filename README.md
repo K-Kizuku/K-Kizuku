@@ -1,9 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Kizuku
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Kizuku&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Kizuku)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Kizuku&theme=onedark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=K-Kizuku)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=K-Kizuku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **K-Kizuku/K-Kizuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
